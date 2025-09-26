@@ -130,3 +130,5 @@ This project is licensed under the MIT License.
 ---
 
 **RainChain - Building a Sustainable Water Future Through Blockchain Technology** 🌍💧⛓️
+<img width="1887" height="942" alt="image" src="https://github.com/user-attachments/assets/6e348316-b6ad-491b-89d6-ee8b548973eb" />
+
