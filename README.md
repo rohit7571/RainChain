@@ -126,7 +126,7 @@ RainChain will serve as the foundation for smart cities, agricultural planning, 
 We welcome contributions from the community! Please feel free to submit issues, feature requests, or pull requests to help improve RainChain.
 
 ### License
-This project is licensed under the MIT License.
+This project is licensed under the MIT license.
 
 ---
 
