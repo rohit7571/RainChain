@@ -1,5 +1,5 @@
 
-# RainChain
+## RainChain
 
 ## Project Description
 
